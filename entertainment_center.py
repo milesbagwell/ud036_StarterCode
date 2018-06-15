@@ -12,7 +12,7 @@ toy_story2 = media.Movie("Toy Story 2",
                         "https://www.youtube.com/watch?v=Lu0sotERXhI")
 
 toy_story3 = media.Movie("Toy Story 3",
-                        "A story of a boy and his toys that come to life",
+                        "Another story of a boy and his toys that come to life",
                         "https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg",
                         "https://www.youtube.com/watch?v=JcpWXaA2qeg")
 
